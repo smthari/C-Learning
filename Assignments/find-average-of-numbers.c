@@ -14,3 +14,6 @@ int main()
     printf("average is %d", averageFun());
     return 0;
 }
+
+// Output
+// average is 120

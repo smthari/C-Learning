@@ -39,3 +39,12 @@ void main()
     }
     fclose(fptr);
 }
+
+// Output
+/* Count the number of words and characters in a file :
+---------------------------------------------------------
+Input the filename to be opened : txt1.txt
+The content of the file txt1.txt are : my name is sumit
+new content
+The number of words in the  file txt1.txt are : 5
+The number of characters in the  file txt1.txt are : 23 */

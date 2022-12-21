@@ -16,3 +16,13 @@ int main()
         }
     }
 }
+
+// Output
+/* Enter number : 12
+You entered 12
+12 can be divided by 1
+12 can be divided by 2
+12 can be divided by 3
+12 can be divided by 4
+12 can be divided by 6
+12 can be divided by 12  */

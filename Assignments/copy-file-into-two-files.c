@@ -26,3 +26,8 @@ int main()
 
     return 0;
 }
+
+// Output
+/* File to copy from :txt1.txt
+File to copy in :txt2.txt
+Contents copied into txt2.txt */

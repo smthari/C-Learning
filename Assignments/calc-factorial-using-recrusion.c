@@ -18,3 +18,10 @@ int main()
 
     return 0;
 }
+
+// Output
+/* 5
+4
+3
+2
+Factorial of 5 is 120  */

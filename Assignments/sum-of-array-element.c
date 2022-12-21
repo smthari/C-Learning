@@ -5,3 +5,6 @@ int main()
     int sum = array[0] + array[1] + array[2];
     printf("Sum of all array element is %d  ", sum);
 }
+
+// Output
+// Sum of all array element is 23  

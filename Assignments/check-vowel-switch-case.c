@@ -33,3 +33,7 @@ int main()
         // break;
     }
 }
+
+// Output 
+/* Enter letter to check vowel : a
+a is vowel  */

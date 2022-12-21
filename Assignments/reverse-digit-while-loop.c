@@ -17,3 +17,7 @@ int main()
 
     return 0;
 }
+
+// Output
+/* Enter numbers : 2022   
+2202 */

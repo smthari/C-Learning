@@ -31,3 +31,7 @@ int main()
 
     return 0;
 }
+
+// Output
+/* Enter a string:level
+level is palindrome string */
