@@ -25,6 +25,13 @@ int main()
     return 0;
 }
 
+// Output
+/* Armstrong number : 1
+Armstrong number : 153
+Armstrong number : 370
+Armstrong number : 371
+Armstrong number : 407 */
+
 // for easy understanding - print armstrong number from 152 to 153
 /* #include <stdio.h>
 
