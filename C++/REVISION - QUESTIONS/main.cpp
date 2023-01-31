@@ -86,7 +86,7 @@ int main()
         break;
     } */
 
-    // Program to check priem number
+    // Program to check prime number
     /* int number;
     cout << "Enter number : ";
     cin >> number;
